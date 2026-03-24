@@ -7,7 +7,7 @@ Primero, clona este proyecto y accede a la carpeta principal:
 ```bash
 git clone https://github.com/JimmiPachonGomez/tech_proof_rappi.git
 ```
-Una vez clonado el proyecto copie y pegue los archivo '.env' y 'credentials.json' adjuntados por correo electrónico. Después de eso levante el entorno virtual e instale los requerimientos. Los siguientes comandos son para linux:
+Una vez clonado el proyecto copie y pegue los archivos '.env' y 'credentials.json' adjuntados por correo electrónico, si el archivo se llama 'env' renómbrelo a '.env'. Después de eso levante el entorno virtual e instale los requerimientos. Los siguientes comandos son para linux:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
